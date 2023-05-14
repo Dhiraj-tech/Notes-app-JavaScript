@@ -1,1 +1,1 @@
-# Notes-app-JavaScript
+Deploy on netlify: https://javascript-notes-demo.netlify.app/
